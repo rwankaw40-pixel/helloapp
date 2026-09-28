@@ -1,0 +1,6 @@
+.buildozer/
+bin/
+cd
+git
+nano
+note.buildozer.spec
